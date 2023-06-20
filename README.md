@@ -1,5 +1,9 @@
 # Account Setup and Git Basics
 # New comment here from John
+    //This code was reference from <source>
+    function printMe(){
+        console.log("I am a reference example");
+    }
 
 ## Dependencies
 
